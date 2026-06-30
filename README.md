@@ -13,6 +13,18 @@ The attrition column in this project is kept exactly as:
 - Voluntary Resignation
 
 These values are used throughout the Python analysis, SQL queries, and dashboard visuals.
+## Streamlit App
+](https://hr-attr-analysis.streamlit.app/)
+
+<img width="1453" height="730" alt="image" src="https://github.com/user-attachments/assets/431ac237-1d43-4b7e-a229-08403ccb11c1" />
+
+<img width="1481" height="857" alt="image" src="https://github.com/user-attachments/assets/d82ab08f-c28d-4807-885e-8a7ec0c08083" />
+
+<img width="1422" height="807" alt="image" src="https://github.com/user-attachments/assets/907242b7-5a47-42cb-880a-d599c2a82011" />
+
+<img width="1097" height="793" alt="image" src="https://github.com/user-attachments/assets/cb072e45-b8c0-40ac-a8e3-4874d931716a" />
+
+<img width="938" height="361" alt="image" src="https://github.com/user-attachments/assets/914bf7da-eddf-4543-a25e-fd3ea0cf52d5" />
 
 ## Objectives
 - Analyze employee attrition trends.
